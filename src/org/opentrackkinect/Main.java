@@ -67,7 +67,7 @@ public class Main {
 	static final int D_MIN = -300;
 	static final int D_MAX = 300;
 	static final String addr = "localhost";
-	static final int port = 4242;
+	static final int port = 5555;
 	static final String fname = "config";
 	static final int time = 5;
 	
