@@ -7,7 +7,7 @@ You need:
 
 In opentrack app:
 
-- Select 'UDP sender' as input and set there 4242 port.
+- Select 'UDP sender' as input and set there 555 port.
 
 - Replace or/and invert x z axis if needed.
 
